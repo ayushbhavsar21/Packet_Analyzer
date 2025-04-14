@@ -68,3 +68,7 @@ You can export the captured packet data to a CSV file by clicking the **💾 Exp
 - **`capture.py`**: Packet capture logic using Scapy.
 - **`analyzer.py`**: Functions for analyzing packet data (e.g., DNS queries, HTTP requests).
 - **`traffic_report.csv`**: Exported CSV file containing captured packet data.
+
+## Live Demo
+
+🚀 Live Demo: This project is deployed and available on Streamlit — check it out here: [Link](https://packet-analyzer.streamlit.app/)
