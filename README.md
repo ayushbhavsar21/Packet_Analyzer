@@ -71,4 +71,4 @@ You can export the captured packet data to a CSV file by clicking the **💾 Exp
 
 ## Live Demo
 
-🚀 Live Demo: Youtube Video — check it out here: [Link]([https://packet-analyzer.streamlit.app/](https://youtu.be/PUXNAv2Lw1o))
+🚀 Live Demo: Youtube Video — check it out here: [Link](https://youtu.be/PUXNAv2Lw1o)
